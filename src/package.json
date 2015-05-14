@@ -1,0 +1,19 @@
+{
+  "name": "freelunch",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Collaborative online food ordering",
+  "author": "Neil Funk <freelunch@neilfunk.com",
+  "dependencies": {
+    "express": "*",
+    "express-session": "*",
+    "ejs": "*",
+    "body-parser": "*",
+    "media-typer": "*",
+    "morgan": "*",
+    "passport": "*",
+    "passport-oauth2": "*",
+    "passport-google-oauth": "*",
+    "raw-body": "*"
+  }
+}
